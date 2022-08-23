@@ -1,2 +1,2 @@
-# brave_and_true
-Solved problems and projects of the book "Clojure for the brave and true"
+# Clojure for the Brave and True
+Solved problems and projects for the book
